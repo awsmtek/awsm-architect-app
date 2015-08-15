@@ -1,0 +1,20 @@
+{
+    "name": "awsm-architect-app", "version": "0.0.1",
+
+    "main": "index.js",
+
+    "plugin": {
+        "consumes": [
+            "$config",
+            "$app.App"
+        ],
+        "provides": [
+            "$app"
+        ]
+    },
+
+    "dependencies": {
+
+    }
+
+}
