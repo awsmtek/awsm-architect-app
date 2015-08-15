@@ -1,3 +1,3 @@
-# awsm-architect-app
+# awsm-architect-app ($app)
 
 Сервис приложения.
